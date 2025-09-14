@@ -127,3 +127,7 @@ MIT License - feel free to use in commercial projects.
 ## Support
 
 For issues and feature requests, visit our GitHub repository.
+
+## Author
+
+SAAAM LLC - saaam.dev - admin@saaam.dev
