@@ -1,0 +1,41 @@
+{
+  "name": "multi-chat-ai",
+  "version": "1.0.0",
+  "description": "Multi-AI chat component with simultaneous responses from multiple providers",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "files": [
+    "dist",
+    "src",
+    "README.md"
+  ],
+  "scripts": {
+    "build": "tsc",
+    "dev": "tsc --watch",
+    "prepare": "npm run build"
+  },
+  "keywords": [
+    "ai",
+    "chat",
+    "multi-model",
+    "openai",
+    "anthropic",
+    "claude",
+    "gpt",
+    "react"
+  ],
+  "author": "SAAAM LLC",
+  "license": "MIT",
+  "peerDependencies": {
+    "react": ">=16.8.0",
+    "lucide-react": "^0.263.1"
+  },
+  "devDependencies": {
+    "@types/react": "^18.0.0",
+    "typescript": "^5.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/saaam-llc/multi-chat-ai"
+  }
+}
